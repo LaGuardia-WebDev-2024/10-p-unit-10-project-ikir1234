@@ -6,6 +6,7 @@ body {
   background-attachment: fixed; 
   margin-top: 10%;
   font-family: Georgia, serif;
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/046/605/934/small/sky-with-a-beautiful-sunset-a-blue-and-orange-sky-with-soft-clouds-a-sky-background-photo.jpg")
 }
 
 html{
@@ -20,7 +21,6 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
